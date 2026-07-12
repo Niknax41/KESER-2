@@ -1,0 +1,8 @@
+{
+  "name": "KESER Digital Wellness Platform",
+  "description": "A premium digital wellness platform focusing on liver cleansing, digestion, and systemic health through a lens of scientific education and radical transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
